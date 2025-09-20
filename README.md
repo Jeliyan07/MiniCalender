@@ -9,4 +9,4 @@ It displays the **current date, day, month, and year** in a clean and minimal de
 3. The calendar will load and display today’s date automatically.
 
  📸 Preview
- ![MiniCalendar](assets/screenshot.png)
+ ![image alt](https://github.com/Jeliyan07/MiniCalender/blob/abf92f92b1c3d5f17a4248ef771c8c719d7c01b0/assets/projectscreenchot.png)
