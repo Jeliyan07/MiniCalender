@@ -10,3 +10,10 @@ It displays the **current date, day, month, and year** in a clean and minimal de
 
  📸 Preview
  ![image alt](https://github.com/Jeliyan07/MiniCalender/blob/abf92f92b1c3d5f17a4248ef771c8c719d7c01b0/assets/projectscreenchot.png)
+
+
+ 🤝 Contributing
+Contributions are welcome! If you’d like to improve this project, feel free to fork the repo and submit a pull request.  
+
+
+Thank you❤️
